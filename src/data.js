@@ -3,7 +3,6 @@ import propsImg from './assets/config.png';
 import jsxImg from './assets/jsx-ui.png';
 import stateImg from './assets/state-mgmt.png';
 
-console.log('Ciao');
 
 export const CORE_CONCEPTS = [
   {
